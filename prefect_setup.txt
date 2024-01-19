@@ -1,0 +1,4 @@
+[Create Account]
+[Create Environment]
+pip install -U prefect
+prefect cloud login
